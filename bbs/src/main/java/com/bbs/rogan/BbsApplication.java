@@ -8,7 +8,8 @@ public class BbsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BbsApplication.class, args);
+		
 		System.out.println("please login");
 		System.out.println("test");
 	}
-}
+}	
