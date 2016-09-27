@@ -1,0 +1,2 @@
+logging.file=logs/bbs.log
+logging.level.org.springframework.web=INFO
