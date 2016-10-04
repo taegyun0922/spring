@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @EnableAutoConfiguration
 public class ViewController {
+		
 	@RequestMapping("/test")
 	@ResponseBody
 	String test(){
