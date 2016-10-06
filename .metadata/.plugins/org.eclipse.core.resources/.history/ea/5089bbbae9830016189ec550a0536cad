@@ -1,7 +1,0 @@
-package com.bbs.rogan;
-
-
-@Controller
-Public class BbsController{
-	
-}
